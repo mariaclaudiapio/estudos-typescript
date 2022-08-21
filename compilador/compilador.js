@@ -21,3 +21,4 @@ function saudar(isMorning: boolean, horas: number): string {
     return saudacao
 }
 */ 
+//# sourceMappingURL=compilador.js.map

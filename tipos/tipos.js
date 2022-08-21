@@ -180,3 +180,4 @@ let correntista = {
 };
 correntista.contaBancaria.depositar(2000);
 console.log(correntista);
+//# sourceMappingURL=tipos.js.map
