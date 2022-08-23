@@ -130,4 +130,3 @@ const notificacoes = '11';
 const boasVindas = `Boas vindas ${usuarioID},
 Notificações: ${parseInt(notificacoes) > 9 ? '+9' : notificacoes}.`;
 console.log(boasVindas);
-//# sourceMappingURL=ecmascript.js.map
