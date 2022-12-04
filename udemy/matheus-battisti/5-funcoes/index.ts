@@ -19,7 +19,7 @@ function preGreeting(f: (name: string) => string, userName: string) {
 }
 
 preGreeting(greeting, 'Matheus')
-preGreeting(greeting, 'Maria Cláudia')
+preGreeting(greeting, 'Maria Cláudia, teste')
 // preGreeting(greeting, 1)
 
 // 3 - generic functions
